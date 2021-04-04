@@ -1,3 +1,2 @@
-const sayMyName = require("./utils").sayMyName
-
+exports.sayMyName = name => console.log(`Your name is ${name}.`)
 module.exports = {sayMyName}
