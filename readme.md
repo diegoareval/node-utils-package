@@ -1,7 +1,4 @@
 [![npm version](https://badge.fury.io/js/node-utils-package.svg)](https://badge.fury.io/js/node-utils-package)
-
-node-utils-package
-
 # Node utils functions
 Node js library containing utils or helper functions to solve any need to sort array remove duplicates
 
