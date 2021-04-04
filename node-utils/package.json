@@ -1,5 +1,5 @@
 {
-    "name": "@bradgarropy/my-package",
+    "name": "node-utils-package",
     "version": "0.0.1",
     "description": "📦 npm package tutorial",
     "main": "index.js",
@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/bradgarropy/npm-publish.git"
+        "url": "https://github.com/diegoareval/node-utils-package.git"
     },
     "keywords": [
         "npm",
@@ -20,13 +20,8 @@
         "registry"
     ],
     "author": {
-        "name": "Brad Garropy",
-        "email": "bradgarropy@gmail.com",
-        "url": "https://bradgarropy.com"
+        "name": "Diego Arevalo",
+        "email": "diego2000avelar@gmail.com"
     },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/bradgarropy/npm-publish/issues"
-    },
-    "homepage": "https://github.com/bradgarropy/npm-publish#readme"
+    "license": "MIT"
 }
