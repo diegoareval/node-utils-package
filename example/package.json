@@ -3,5 +3,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "dependencies": {}
+    "dependencies": {
+        "node-utils-package": "^0.3.2"
+    }
 }

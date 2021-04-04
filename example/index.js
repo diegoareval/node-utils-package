@@ -1,3 +1,5 @@
-const {sayMyName} = require("my-package")
+const {sayMyName, numberFactorial} = require("node-utils-package")
 
-sayMyName("Brad")
+console.log(numberFactorial(5));
+
+sayMyName("Diego")
