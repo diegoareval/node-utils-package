@@ -15,4 +15,4 @@ const numberFactorial = number => {
    */
 const flattenElements = (array) => array.reduce((accumulator, element) => accumulator.concat(element), [])
 
-module.exports = {sayMyName, numberFactorial, flattenElements}
+module.exports = {numberFactorial, flattenElements}
